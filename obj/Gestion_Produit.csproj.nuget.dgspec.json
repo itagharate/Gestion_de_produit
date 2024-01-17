@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ib\\Desktop\\Gestion_Produit\\Gestion_Produit\\Gestion_Produit.csproj": {}
+    "C:\\Users\\ib\\Desktop\\back_produit_deploy\\Gestion_de_produit_back\\Gestion_Produit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ib\\Desktop\\Gestion_Produit\\Gestion_Produit\\Gestion_Produit.csproj": {
+    "C:\\Users\\ib\\Desktop\\back_produit_deploy\\Gestion_de_produit_back\\Gestion_Produit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ib\\Desktop\\Gestion_Produit\\Gestion_Produit\\Gestion_Produit.csproj",
+        "projectUniqueName": "C:\\Users\\ib\\Desktop\\back_produit_deploy\\Gestion_de_produit_back\\Gestion_Produit.csproj",
         "projectName": "Gestion_Produit",
-        "projectPath": "C:\\Users\\ib\\Desktop\\Gestion_Produit\\Gestion_Produit\\Gestion_Produit.csproj",
+        "projectPath": "C:\\Users\\ib\\Desktop\\back_produit_deploy\\Gestion_de_produit_back\\Gestion_Produit.csproj",
         "packagesPath": "C:\\Users\\ib\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ib\\Desktop\\Gestion_Produit\\Gestion_Produit\\obj\\",
+        "outputPath": "C:\\Users\\ib\\Desktop\\back_produit_deploy\\Gestion_de_produit_back\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ib\\AppData\\Roaming\\NuGet\\NuGet.Config",
