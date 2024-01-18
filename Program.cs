@@ -2,7 +2,6 @@
 using Gestion_Produit.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
-using Microsoft.AspNetCore.Cors;
 
 
 namespace Gestion_Produit
@@ -34,7 +33,7 @@ namespace Gestion_Produit
             }
 
             app.UseHttpsRedirection();
-            app.UseCors(c => c.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigins());
+            app.UseCors(c => c.AllowAnyHeader().AllowAnyMethod().WithOrigins("*"));
             app.UseAuthorization();
 
 
