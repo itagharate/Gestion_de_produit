@@ -32,7 +32,7 @@ namespace Gestion_Produit
             }
 
             app.UseHttpsRedirection();
-            app.UseCors(c => c.AllowAnyHeader().AllowAnyMethod().WithOrigins("*"));
+            app.UseCors(c => c.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigins());
             app.UseAuthorization();
 
 
