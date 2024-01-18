@@ -2,6 +2,8 @@
 using Gestion_Produit.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
+using Microsoft.AspNetCore.Cors;
+
 
 namespace Gestion_Produit
 {
