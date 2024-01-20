@@ -33,7 +33,7 @@ namespace Gestion_Produit
             }
 
             app.UseHttpsRedirection();
-            app.UseCors(c => c.AllowAnyHeader().AllowAnyMethod().WithOrigins("https://produitfront.azurewebsites.net"));
+            app.UseCors(c => c.AllowAnyHeader().AllowAnyMethod().WithOrigins("http://localhost:4200"));
             app.UseAuthorization();
 
 
